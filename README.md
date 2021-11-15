@@ -1,16 +1,44 @@
-### Hi there 👋
+<div>
+  <h1 align="left">Thiago Von-Grapp
+    <a href="https://www.linkedin.com/in/thiagovongrapp/">
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+    </a>
+  </h1>
+</div>
 
-<!--
-**thiagovongrapp/thiagovongrapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there!
 
-Here are some ideas to get you started:
+I am nurse specialized in Public Policy Management for Health. Currently, I study Data Science! 🤓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+
+### I know...
+
+<div>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg"/></code>
+  <code><img width="40px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/PowerBI.svg"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+</div>
+
+### I am learning...
+
+<div>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></code>
+  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></code>
+</div>
+
+##
+
+<div>
+  <p align="center">
+    <a href="https://github.com/thiagovongrapp">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagovongrapp&layout=compact&langs_count=7&theme=github_dark"/>
+       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagovongrapp&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  </p>
+</div>
